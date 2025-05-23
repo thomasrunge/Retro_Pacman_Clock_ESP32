@@ -1,4 +1,4 @@
-# ESP8266 based alarm clock with Pac-Man theme.
+# ESP43 based alarm clock with Pac-Man theme.
 
 This is a fork of the famous [Pac-Man clock](https://www.instructables.com/Retro-Pac-Man-Clock/) featured at [Instructables](https://www.instructables.com/). It is based on Version 8 with these changes:
 
