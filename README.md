@@ -23,7 +23,10 @@ This is a fork of the famous [Pac-Man clock](https://www.instructables.com/Retro
 
 released: 2017-05-02
 
+May 2025:
+- ported to CYD including changes for library advancements
+
 my alarm clock running for years now on my bedside table:
-![front side](rpc1.jpg)
-![back side](rpc2.jpg)
+![front side](images/rpc1.jpg)
+![back side](images/rpc2.jpg)
 
